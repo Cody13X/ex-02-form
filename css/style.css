@@ -1,0 +1,31 @@
+.cadre{
+  text-align: center;
+  border: 1px solid grey;
+  border-radius: 10px;
+  width: 300px;
+  height: 360px;
+  margin: auto;
+  margin-top: 70px;
+  background-color: #BC8F8F;
+}
+form {
+  margin-top: 35px;
+}
+.email, .login{
+  margin-left: -130px;
+}
+.phone{
+  margin-left: -110px;
+}
+.labage{
+  margin-left: -145px;
+}
+.age{
+  margin-left: -90px;
+}
+.bouton{
+  margin-top: 10px;
+  margin-right: -150px;
+  background-color: black;
+  color: red;
+}
